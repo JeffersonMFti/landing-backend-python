@@ -20,12 +20,6 @@ python -m http.server 8000
 Publicação
 - Use `gh` para criar o repositório e enviar os commits, ou adicione o remote manualmente e dê push.
 
-Notas
-- Links pessoais foram removidos do `index.html` antes do push. Informe se deseja re-adicioná-los.
-# Landing Back-End Python (template)
-
-Landing page moderna e futurista para Desenvolvedor Back-End Python, com foco em automação, APIs e integração N8N.
-
 Instruções rápidas (local):
 
 - Abra um servidor estático na pasta do projeto e acesse `index.html` no navegador. Exemplo (PowerShell):
